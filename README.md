@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, My Name is Mohamed Mahmoud El-Naggar Computer Science Student also a Competitive Programmer
+My Name is Mohamed El-Naggar aka Naggar aka Nego. Computer Science student at Cairo University. In a huge love story with coding💘. I am a Specialist on CodeForces. I like searching and learning new things. Problem Solving instructor and mentor at ICPC FCAI CU Community. I enjoy teaching.
 <!--
 **naggarx/naggarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
